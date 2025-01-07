@@ -1,0 +1,3 @@
+.DS_Store
+
+force push yaptığım halde .DS_Store dosyası hala gitignore dosyasında belirttiğim halde gözüküyor. Bu durumda .DS_Store dosyasını gitignore dosyasına eklemek için ne yapmam gerekiyor?
